@@ -356,7 +356,3 @@ changes to update the resources used in your interface.
 # Resources
 
 Introduction to Android Activities with Kotlinby @stevenpsmith123 https://www.kodeco.com/2705552-introduction-to-android-activities-with-kotlin a través de @kodecodev 
-
-
-
-# android-introduction-activities-kotlin
